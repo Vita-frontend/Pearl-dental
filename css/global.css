@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/*font-family: 'Roboto', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+/*font-family: 'Rubik', sans-serif;*/
+/* 1rem=16px */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Roboto', sans-serif;
+    --text-main-color: rgb(105, 105, 105);
+    --text-add-color: rgb(255, 255, 255);
+    --text-add-logo-color: rgba(255, 255, 255, 0.7);
+    --text-title-color: #219bda;
+    --button-main-color: #f4881b;
+    --button-link-color: #0983d5;
+    --background-color-add: rgb(22, 33, 41);
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+h2 {
+    color: var(--text-title-color);
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+h6 {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Rubik', sans-serif;
+}

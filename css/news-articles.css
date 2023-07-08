@@ -1,0 +1,16 @@
+.news-articles{
+   margin: 24px;
+}
+.news-articles__cards-photo{
+   height: 252px;
+   width: 272px;
+   margin-top: 44px;
+   margin-bottom: 24px;
+}
+.news-articles__text {
+   color: var(--text-main-color);
+   font-size: 1rem;
+   font-weight: 400;
+   margin-top: 36px;
+   margin-bottom: 36px;
+}

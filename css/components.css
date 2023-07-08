@@ -1,0 +1,16 @@
+.button-orange {
+    background-color: var(--button-main-color);
+    border: none;
+    border-radius: 34px;
+    color: var(--text-add-color);
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 14px;
+    font-family:'Rubik', sans-serif; 
+    height: 48px;
+    width: 200px;
+    text-align: center;
+}
+.button-orange:hover {
+    background-color: var(--button-link-color);
+}

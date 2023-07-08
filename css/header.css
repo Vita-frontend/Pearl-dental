@@ -1,0 +1,48 @@
+.header__hero {
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 24px;
+}
+
+.header__about-clinic {
+    background-color: var(--background-color-add);
+}
+
+.header__about-clinic-iteam {
+    color: var(--text-add-color);
+    margin: 24px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-around;
+  }
+.header__hero-text {
+    color: var(--background-color-add);
+    font-size: 48px;
+    font-stretch: 100%;
+    font-weight: 600;
+    font-family: 'Rubik', sans-serif;
+    text-align: left;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+.header__hero-text-add {
+    color: var(--text-main-color);
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 48px;
+}
+.header__about-clinic-logo{
+    font-size: 17px;
+    height: 24px;
+
+}
+@media (min-width: 500px) {
+    .header__about-clinic {
+        display: flex;
+    }
+    .header__about-clinic-iteam {
+        flex-direction: column;
+    }
+}
