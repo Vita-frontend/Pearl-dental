@@ -10,6 +10,7 @@
     height: 48px;
     width: 200px;
     text-align: center;
+    margin-left: 36px;
 }
 .button-orange:hover {
     background-color: var(--button-link-color);

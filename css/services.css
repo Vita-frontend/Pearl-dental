@@ -1,0 +1,109 @@
+.services__main {
+    display: flex;
+    flex-direction: column;
+}
+
+.services__photo {
+    height: 70px;
+    width: auto;
+    border-radius: 50%;
+}
+
+.services__main-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.services__text {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.services__text-gray {
+    color: var(--text-main-color);
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.services__list-iteam-logo1 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-lips.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.services__list-iteam-logo2 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-tooth-energy.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.services__list-iteam-logo3 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-tooth-happy.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.services__list-iteam-logo4 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-tooth-cloud.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.services__list-iteam-logo5 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-tooth-energy.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.services__list-iteam-logo6 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-braces.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.services__list-iteam-logo7 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-two-tooth.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.services__list-iteam-logo8 {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-image: url(../img/logo-jaw.svg);
+    background-color: var(--background-color-logo);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
