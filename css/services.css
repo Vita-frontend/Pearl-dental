@@ -1,27 +1,27 @@
-.services__main {
+.services__discribe {
     display: flex;
     flex-direction: column;
 }
 
-.services__photo {
+.services__discribe-photo {
     height: 70px;
     width: auto;
     border-radius: 50%;
 }
 
-.services__main-text {
+.services__discribe-text {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-items: start;
 }
 
-.services__text {
+.services__text-main {
     font-size: 1.25rem;
     font-weight: 600;
 }
 
-.services__text-gray {
+.services__text-add {
     color: var(--text-main-color);
     font-weight: 400;
     font-size: 1rem;
@@ -37,6 +37,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 .services__list-iteam-logo2 {
     width: 42px;
     height: 42px;
@@ -47,6 +48,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 .services__list-iteam-logo3 {
     width: 42px;
     height: 42px;
@@ -57,6 +59,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 .services__list-iteam-logo4 {
     width: 42px;
     height: 42px;
@@ -67,6 +70,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 .services__list-iteam-logo5 {
     width: 42px;
     height: 42px;
@@ -77,6 +81,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 .services__list-iteam-logo6 {
     width: 42px;
     height: 42px;
@@ -87,6 +92,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 .services__list-iteam-logo7 {
     width: 42px;
     height: 42px;
@@ -97,6 +103,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 .services__list-iteam-logo8 {
     width: 42px;
     height: 42px;
